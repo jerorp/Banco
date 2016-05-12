@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/* Este comentario es para probar GIT*/
+/* modifico el  comentario para probar GIT*/
 package banco3;
 
 import java.io.FileInputStream;
